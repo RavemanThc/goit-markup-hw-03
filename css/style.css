@@ -84,6 +84,7 @@ ul, ol{
     letter-spacing: 0.02em;
     font-size: 20px;
     color: #2E2F42;
+    margin-bottom: 8px;
 }
 .list-title-paragraph{
     line-height: 1.5;
@@ -189,4 +190,14 @@ img{
 }
 .hero{
     padding: 188px 0;   
+}
+.white-list{
+    padding: 120px 0;
+}
+.white-list-scroll{
+    display:flex;
+    gap: 24px;
+}
+.scroll-list{
+    width: calc((100% - 72px) / 4);
 }
