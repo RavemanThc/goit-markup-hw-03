@@ -53,7 +53,7 @@ ul, ol{
 }
 
 .hero-title{
-    text-align: center;
+
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -137,8 +137,7 @@ ul, ol{
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;
-    text-transform: capitalize;
+
     font-weight: 500;
     color: #2E2F42;
     margin-bottom: 72px;
@@ -158,6 +157,10 @@ ul, ol{
     border-top: none;
     margin-bottom: 8px;
 }
+.portfolio-subtitle-paragraph{
+    text-align: center;
+
+}
 .portfolio-subtitle{
     font-size: 20px;
     line-height: 1.2;
@@ -165,8 +168,7 @@ ul, ol{
     font-weight: 500;
     color: #2E2F42;
     margin-bottom: 8px;
-}
-.portfolio-subtitle-paragraph{
+    text-align: center;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
