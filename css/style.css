@@ -131,6 +131,7 @@ ul, ol{
     text-transform: capitalize;
     font-weight: 500;
     color: #2E2F42;
+    margin-bottom: 72px;
 }
 .portfolio-subtitle{
     font-size: 20px;
@@ -211,9 +212,9 @@ img{
     gap: 24px;
 }
 .cast-list{
-     width: calc((100%-72px)/4);
+    width: calc((100%-72px)/4);
     border-radius: 0px 0px 4px 4px;
 }
-.info{
-     padding: 32px 0;
+.cast-info{
+    padding: 32px 0;
 }
