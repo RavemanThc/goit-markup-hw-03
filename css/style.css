@@ -1,0 +1,143 @@
+body{
+     font-family: "Roboto", sans-serif;
+    color: #434455 ;
+    background-color: #ffffff ;
+    
+}
+a{
+    text-decoration: none;
+}
+ul, ol{
+    list-style: none;
+}
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18ortx;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5
+}
+.header-logo-studio{
+    color: #2e2f42;
+}
+.navigation{
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42
+}
+.navigation:hover,
+.navigation:focus{
+    color: #404bbf;
+}
+.adress{
+    font-style: normal;
+}
+.adress-contact{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.adress-contact:hover,
+.adress-contact:focus{
+    color: #404bbf;
+}
+.hero{
+    background-color: #2E2F42
+}
+.hero-title{
+    text-align: center;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.hero-button{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    color: #ffffff;
+}
+.hero-button:hover,
+.hero-button:focus{
+    background-color: #404bbf;
+}
+.list-title{
+    font-weight: 500;
+    line-height:1.2;
+    letter-spacing: 0.02em;
+    font-size: 20px;
+    color: #2E2F42;
+}
+.list-title-paragraph{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.cast{
+    background-color: #F4F4FD;
+}
+.cast-title{
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #2E2F42;
+}
+.cast-list{
+    background-color: #FFFFFF;
+}
+.cast-list-subtitle{
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    font-weight: 500;
+    color: #2E2F42;
+}
+.cast-list-paragraph{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.portfolio-title{
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #2E2F42;
+}
+.portfolio-subtitle{
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    font-weight: 500;
+    color: #2E2F42;
+}
+.portfolio-subtitle-paragraph{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.footer{
+    background-color:  #2e2f42;
+}
+.footer-logo-studio{
+    color:#f4f4fd;
+}
+.footer-paragraph{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#F4F4FD;
+
+}
