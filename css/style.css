@@ -113,12 +113,15 @@ ul, ol{
     letter-spacing: 0.02em;
     font-weight: 500;
     color: #2E2F42;
+    text-align: center;
+    margin-bottom: 8px;
 }
 .cast-list-paragraph{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+     text-align:center;
 }
 .portfolio-title{
     font-size: 36px;
@@ -204,5 +207,13 @@ img{
     width: calc((100%-3*24px)/4);
 }
 .cast-scroll{
-
+    display:flex;
+    gap: 24px;
+}
+.cast-list{
+     width: calc((100%-72px)/4);
+    border-radius: 0px 0px 4px 4px;
+}
+.info{
+     padding: 32px 0;
 }
