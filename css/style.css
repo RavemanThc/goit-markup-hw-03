@@ -233,9 +233,9 @@ img{
 .cast-scroll{
     display:flex;
     gap: 24px;
+    flex-basis: calc((100% - 72px) / 4);
 }
 .cast-list{
-    flex-basis: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
 }
 .cast-info{
@@ -253,7 +253,7 @@ img{
     display: inline-block;
     margin-bottom: 16px;
 }
-.container-footer{
+.container.wraper{
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
