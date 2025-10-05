@@ -47,7 +47,8 @@ ul, ol{
     color: #404bbf;
 }
 .hero{
-    background-color: #2E2F42
+    background-color: #2E2F42;
+    padding: 188px 0;
 }
 .hero-title{
     text-align: center;
@@ -233,9 +234,7 @@ img{
     display: flex;
     gap: 40px;
 }
-.hero{
-    padding: 188px 0;   
-}
+
 .white-list{
     padding: 120px 0;
 }
@@ -255,12 +254,7 @@ img{
 .cast-info{
     padding: 32px 0;
 }
-.wraper{
-    width: 1158px;
-    margin: 0 auto;
-    padding: 0 15px;
-    display: inline-block;
-}
+
 .container-hero{
     display: flex;
 }
