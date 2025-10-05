@@ -152,3 +152,15 @@ clip-path: inset(100%);
 clip: rect(0 0 0 0);
 overflow: hidden;
 }
+img{
+    display: block;
+}
+.head-title{
+    border-bottom: 1px solid #e7e9fc;
+
+}
+.container{
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
