@@ -1,3 +1,4 @@
+
 body{
     font-family: "Roboto", sans-serif;
     color: #434455 ;
@@ -50,6 +51,7 @@ ul, ol{
 .hero{
     background-color: #2E2F42;
     padding: 188px 0;
+    
 }
 
 .hero-title{
@@ -90,6 +92,7 @@ ul, ol{
     font-size: 20px;
     color: #2E2F42;
     margin-bottom: 8px;
+    
 }
 .list-title-paragraph{
     line-height: 1.5;
