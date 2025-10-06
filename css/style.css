@@ -12,9 +12,7 @@ body{
 a{
     text-decoration: none;
 }
-ul, ol{
-    list-style: none;
-}
+
 .logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -268,6 +266,10 @@ img{
 }
 
 h1, h2, h3, h4 ,h5, h6,p {
+    margin: 0; 
+}
+ul, ol{
+    list-style: none;
+    padding-left: 0;
     margin: 0;
- 
 }
