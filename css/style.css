@@ -135,6 +135,8 @@ text-transform: capitalize;
     color: #2E2F42;
     text-align: center;
     margin-bottom: 8px;
+    text-transform: capitalize;
+    display: block;
 }
 .cast-list-paragraph{
     font-size: 16px;
